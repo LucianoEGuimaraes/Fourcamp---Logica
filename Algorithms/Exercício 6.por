@@ -6,7 +6,7 @@ programa
 		real peso, altura, imc
 	
 		
-escreva("Calculadora IMC \n")
+		escreva("Calculadora IMC \n")
 
 		escreva("Informe a altura: \n")
 		leia(altura)

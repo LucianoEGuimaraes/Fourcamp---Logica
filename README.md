@@ -2,4 +2,4 @@
     
 <p align="center">🧡Foursys🧡</p>
     
-<p align="center">Exercícios do módulo de Lógica de Programação em portugol</p>
+<p align="center">Exercícios e atividades realizadas durante o treinamento</p>

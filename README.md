@@ -2,4 +2,4 @@
     
 <p align="center">🧡Foursys🧡</p>
     
-<p align="center">Exercícios e atividades realizadas durante o treinamento</p>
+<p align="center">Atividades e projetos realizados durante o treinamento</p>

@@ -1,0 +1,13 @@
+       01 WKR-CABECALHO.                                                00010002
+          05 WRK-CABECALHO-1.                                           00011002
+            10 FILLER       PIC X(12).                                  00012002
+            10 FILLER       PIC X(46) VALUE                             00013002
+               'RELATORIO DE FUNCIONARIOS                PAG: '.        00014002
+            10 WRK-PAG      PIC 9(02) VALUE 1.                          00015002
+            10 FILLER       PIC X(07).                                  00016002
+          05 WRK-CABECALHO-2.                                           00017002
+            10 FILLER       PIC X(09) VALUE 'ID       '.                00018002
+            10 FILLER       PIC X(04) VALUE 'NOME'.                     00019002
+            10 FILLER       PIC X(26).                                  00019102
+            10 FILLER       PIC X(14) VALUE 'SETOR         '.           00019202
+            10 FILLER       PIC X(07) VALUE 'SALARIO'.                  00019302

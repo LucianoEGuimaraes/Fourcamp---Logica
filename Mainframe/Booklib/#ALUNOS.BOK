@@ -1,0 +1,5 @@
+       01 FD-ALUNOS.                                                    00010000
+          05 FD-MATRICULA PIC X(05).                                    00020001
+          05 FD-NOME      PIC X(20).                                    00030001
+          05 FD-SERIE     PIC X(03).                                    00040001
+          05 FD-MEDIA-FIM PIC X(04).                                    00050001
